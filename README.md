@@ -23,7 +23,9 @@ My *favorite movie* in the Harry Potter series is the **Harry Potter and the Cha
 
 My *favorite character* is **Cedric Diggory**.
 
-My *favorite spell* is *Expecto Patronum*.
+My *favorite spell* is **Expecto Patronum**.
+
+My *favorite place* is the [Hogwarts Castle](https://i.pinimg.com/originals/8b/9f/c4/8b9fc4d45ab66b566f1ab0c4cc93b1d0.jpg).
 
 ### Favorite Quotes
 > "Happiness can be found even in the darkest of times, if one only remembers to turn on the light."
