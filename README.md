@@ -1,8 +1,9 @@
-#### My favorite movie series
+### My favorite movie series
 
 **Harry Potter**
 
 The director of the movies is **David Heyman**.
+
 And the author of the books who made the Harry Potter series into movies is **J.K. Rowling**.
 
 It is about an ophaned boy who become a wizard and went to Hogwarts, a magic school, to learn magic and was targeted by an evil wizard organization know as the death eaters and their leader Voldermort because it just so happened he is the Chosen on to take them down.
@@ -19,10 +20,12 @@ The Harry Potter movie series has 8 movies in total:
 8. Harry Potter and the Deathly Hallows: Part 2
 
 My *favorite movie* in the Harry Potter series is the **Harry Potter and the Chamber of Sercrets**.
+
 My *favorite character* is **Cedric Diggory**.
+
 My *favorite spell* is *Expecto Patronum*.
 
-#### Favorite Quotes
+### Favorite Quotes
 > "Happiness can be found even in the darkest of times, if one only remembers to turn on the light."
 >
 > > Albus Dumbledore
